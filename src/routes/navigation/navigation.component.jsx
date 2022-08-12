@@ -19,7 +19,7 @@ const Navigation= () => {
             </li>
             <li className='ml-8'>
                 <Link to='/sign-in'>
-                    <button className='py-3 px-6 text-white bg-blue-500 rounded-md'>Sign In</button>
+                    <button className='py-3 px-6 text-white bg-purple-700 rounded-md'>Sign In</button>
                 </Link>
             </li>
         </ul>
